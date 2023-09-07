@@ -1,0 +1,10 @@
+body{
+	background: #EEE;
+	line-height: 1.5em;
+	font-size: 24pt;
+}
+.lang {
+  border: 1px solid #AAA; /* Định dạng đường viền */
+  padding: 2px 4px; /* Định dạng khoảng trống bên trong */
+  background-color: #CCC; /* Màu nền */
+}
